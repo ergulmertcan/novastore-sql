@@ -1,0 +1,14 @@
+# Local delivery/report artifacts
+*.docx
+*.pdf
+*.bak
+
+# SQL Server generated/local files
+*.mdf
+*.ldf
+
+# Editor and operating system files
+.DS_Store
+.idea/
+.vscode/
+*.swp
